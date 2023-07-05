@@ -18,5 +18,7 @@ images:
 - doc/html/Pictures/image003.gif
 - doc/html/Pictures/image004.gif
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: PIC16F87xDIL2801
